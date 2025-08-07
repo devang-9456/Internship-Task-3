@@ -52,7 +52,7 @@ Prioritized issues based on CVSS scores, exploit availability, and asset exposur
 
 Critical and High severity issues addressed first, including:
 
-Keeping SMBv1 protocol disabled, higher versions are enabled and provide the required security.
+Keeping SMBv1 protocol disabled, higher versions are enabled and provide the required security(https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/overview-server-message-block-signing).
 
 Applying latest OS and software security patches.
 
